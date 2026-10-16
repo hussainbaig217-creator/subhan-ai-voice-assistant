@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Subhan AI — Voice Assistant
 
@@ -149,3 +150,7 @@ Built by Subhan Developer.
 
 YouTube: [Add your YouTube channel URL]
 GitHub: [Add your GitHub profile URL]
+=======
+# subhan-ai-voice-assistant
+A Python AI voice assistant using Ollama, speech recognition, and text-to-speech.
+>>>>>>> 6737c5b9577fc46915937944921b770261220475
